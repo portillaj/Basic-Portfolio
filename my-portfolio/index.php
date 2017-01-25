@@ -1,3 +1,3 @@
 <?php
-	include_once(../index.html);
+	include_once(basic-portfolio/my-portfolio/index.html);
 ?>
